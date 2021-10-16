@@ -1,1 +1,7 @@
 runtime: nodejs14
+
+env_variables:
+  DB_USER: martin
+  DB_PASS: martin
+  DB_NAME: socialNetwork
+  CLOUD_SQL_CONNECTION_NAME: socialnetwork-329112:europe-west1:martin2b
